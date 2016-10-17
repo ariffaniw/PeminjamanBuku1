@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Kaset">
+        <item>Sunshine Becomes You</item>
+        <item>Something To Remember</item>
+        <item>Winter In Tokyo</item>
+        <item>Autumn In Paris</item>
+        <item>Summer In seoul</item>
+        <item>Spring In London</item>
+    </string-array>
+</resources>
